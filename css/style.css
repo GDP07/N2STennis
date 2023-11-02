@@ -3284,3 +3284,8 @@ ol {
 .owl-carousel .owl-stage-outer {
   background-color: #000 !important;
 }
+.list-group-item {
+  background-color: #000;
+  border: 1px solid #ffffff32;
+  text-align: center;
+}

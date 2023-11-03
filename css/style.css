@@ -3289,3 +3289,7 @@ ol {
   border: 1px solid #ffffff32;
   text-align: center;
 }
+
+.list-group-item ul {
+  list-style: none;
+}
